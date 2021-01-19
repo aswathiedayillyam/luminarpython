@@ -7,8 +7,11 @@ while(low<upp):
     tot=lst[low]+lst[upp]
     if(element==tot)
         print(lst[low],lst[upp])
-        breakelse:
+        break
+    elif(element>tot):
         low+=1
+    else:
+        upp-=1
 
 
 
