@@ -1,12 +1,14 @@
 employees=[
-    [10,"christy","dataanalyst",50000]
-    [11, "jhon", "ba", 30000]
-    [12, "sab", "dataanalyst",40000]
-    [13, "tom", "developer", 40000]
-    [14, "jhoni", "developer",40000]
-[14, "jhoni", "developer",40000]
-
-
+    [10,"christy","dataanalyst",50000],
+    [11, "jhon", "ba", 30000],
+    [12, "sab", "dataanalyst",40000],
+    [13, "tom", "developer", 40000],
+    [14, "jhoni", "developer",40000],
+    [15, "sabir", "developer",40000],
+    [16, "tom", "developer",40000],
+    [17, "jhonis", "developer",47000],
+    [18, "jhonis", "developer",32000]
+]
 
 #print number of employees in this company
 number_of_employees=len(employees)
