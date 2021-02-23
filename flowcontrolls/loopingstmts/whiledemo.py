@@ -1,4 +1,4 @@
-#if we eant to execute a set of stmt repeated num of time we can use looping stmt
+#if we want to execute a set of stmt repeated num of time we can use looping stmt
 
 #while
 #initialization

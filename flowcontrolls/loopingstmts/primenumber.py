@@ -6,7 +6,7 @@ flag=0
 for i in range(2,num):#2
     print(i)
     if(num%i==0):#9%2==0
-        flag=flag=1#flag=1
+        flag=flag+1#flag=1
         break
 
     else:
