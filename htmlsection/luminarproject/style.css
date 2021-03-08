@@ -1,0 +1,94 @@
+body{
+    height: 1000px;
+}
+.topdiv{
+    background-color: #5e068a;
+    color:white;
+    font-size: 13px;
+    padding: 5px;
+    text-align: center;
+
+}
+.navba{
+    position: relative;
+    top: 20px;
+    background-color: white;
+}
+a{
+    color: black;
+    font-size: 14px;
+    font-weight: 400;
+}
+h2{
+    font-size: 30px;
+    margin-bottom: 20px;
+    padding-top: 60px;
+    color: #5e068a;
+    font-weight: 600;
+}
+span{
+    color: #5e068a99;
+    
+}
+.part1{
+    position: relative;
+    top: 20px;
+    
+}
+.fontclass{
+    font-size: 14px;
+    line-height: 30px; 
+
+}
+button{
+    padding: 16px 27px;
+    font-weight: 600;
+    margin-top: 21px;
+    border-radius: 50px;
+    border: 2px solid #5e068a;
+    background-color: #5e068a;
+    color: white;
+    width: 150px;
+    height: 60px;
+}
+
+.bttn1{
+    position: relative;
+    top:20px;
+    right: 12px;
+    
+}
+
+button:hover{
+    padding: 16px 27px;
+    font-weight: 600;
+    margin-top: 21px;
+    border-radius: 50px;
+    border: 2px solid #5e068a;
+    background-color: white;
+    color: #5e068a;
+}
+.part2{
+    position: relative;
+    top:43px;
+    
+}
+.part3{
+    position: relative;
+    top:80px;
+
+}
+.part4{
+    position: relative;
+    top:100px;
+}
+.part5{
+    position: relative;
+    top:50px;
+}
+.bttn2{
+    width: 160;
+    font-size: 12px;
+    position: relative;
+    left: 60px;
+}

@@ -1,0 +1,48 @@
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 300;
+    color: red;
+    text-align: center;
+}
+table{
+    margin: auto;
+}
+td{
+    padding: 80px;
+    height: 300px;
+    border-color: white;
+    border-style: solid;
+    border-width: 5px;
+}
+.red
+{
+    /* width: 250px; */
+    /* height: 400px; */
+    background-color: red;
+    
+}
+.yellow
+{
+    /* width: 250px; */
+    /* height: 400px; */
+    background-color: yellow;
+}
+.green
+{
+    /* width: 250px; */
+    /* height: 400px; */
+    background-color: green;
+    /* float:left; */
+}
+.blue
+{
+    /* width: 250px; */
+    /* height: 400px; */
+    background-color: blue;
+}
+.gray
+{
+    /* width: 250px; */
+    /* height: 400px; */
+    background-color: gray;
+}

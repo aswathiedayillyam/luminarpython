@@ -1,0 +1,19 @@
+.top{
+    height: 80px;
+    width: 60%;
+    background-color: aquamarine;
+    margin-left: 23%;
+    padding-top: 10px;
+    font-size: 50px;
+    font-weight: 650;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: underline; /*overline,linethrough*/
+}
+.bottom{
+    height: 80px;
+    width: 60%;
+    margin-top: 15%;
+    background-color: aquamarine;
+    margin-left: 23%;
+    padding-left: 10%;
+}

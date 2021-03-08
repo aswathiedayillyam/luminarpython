@@ -1,0 +1,41 @@
+body{
+    background-image: url("imag.jfif");
+    background-color: yellowgreen;
+}
+h1{
+    color: yellow;
+    text-align: center;
+}
+#chicken{
+    background-color:red;
+    border-style: solid;
+    border-color: wheat;
+    border-width: 1px;
+    width: 30%;
+}
+#chilli{
+    color:white;
+    text-align: center;
+}
+#manchurian{
+    background-color: #09a2e3;
+    border-style: solid;
+    border-color: wheat;
+    border-width: 1px;
+    width: 30%;
+}
+#gobi{
+    color:white;
+    text-align: center;
+}
+#fish{
+    background-color:rgb(227, 9, 180);
+    border-style: solid;
+    border-color: wheat;
+    border-width: 1px;
+    width: 30%;
+}
+#fry{
+    color:white;
+    text-align: center;
+}

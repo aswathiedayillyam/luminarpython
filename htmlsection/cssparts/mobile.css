@@ -1,0 +1,53 @@
+body{
+    background-image: url("");
+    background-color: darkgrey;
+}
+h1{
+    color: crimson;
+    text-align: center;
+}
+
+#nokia{
+    background-color: blue;
+    border-style: solid;
+    border-color: wheat;
+    border-width: 1px;
+    width: 30%;
+    text-align: center;
+}
+#c3h{
+    color:white;
+    text-align: center;
+    
+}
+
+#samsung{
+    background-color: blue;
+    border-style: solid;
+    border-color: wheat;
+    border-width: 1px;
+    width: 30%;
+    text-align: center;
+}
+#samsungf41{
+    color:white;
+    text-align: center;
+}
+
+.first{
+    background-color: blue;
+    border-style: solid;
+    border-color: wheat;
+    border-width: 1px;
+    width: 30%;
+    text-align: center;
+}
+
+#iphone{
+        color:white;
+        text-align: center;
+}
+#mi{
+    color:white;
+    text-align: center;
+}
