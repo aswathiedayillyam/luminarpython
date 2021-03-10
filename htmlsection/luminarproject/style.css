@@ -1,94 +1,178 @@
 body{
-    height: 1000px;
+    background-color:white;
 }
-.topdiv{
-    background-color: #5e068a;
-    color:white;
-    font-size: 13px;
-    padding: 5px;
-    text-align: center;
-
-}
-.navba{
-    position: relative;
-    top: 20px;
-    background-color: white;
-}
-a{
-    color: black;
-    font-size: 14px;
-    font-weight: 400;
-}
-h2{
-    font-size: 30px;
-    margin-bottom: 20px;
-    padding-top: 60px;
-    color: #5e068a;
-    font-weight: 600;
-}
-span{
-    color: #5e068a99;
+.top_div{
+    width: 100%;
+    background-color: #5E068A;   
     
 }
-.part1{
-    position: relative;
-    top: 20px;
-    
-}
-.fontclass{
-    font-size: 14px;
-    line-height: 30px; 
-
-}
-button{
-    padding: 16px 27px;
-    font-weight: 600;
-    margin-top: 21px;
-    border-radius: 50px;
-    border: 2px solid #5e068a;
-    background-color: #5e068a;
+.top_div_info{
     color: white;
-    width: 150px;
-    height: 60px;
+    font-size: 13px;
 }
-
-.bttn1{
-    position: relative;
-    top:20px;
-    right: 12px;
-    
-}
-
-button:hover{
-    padding: 16px 27px;
-    font-weight: 600;
+.intro h3{
+    font-size: 32px;
+    color: #5E068A;
+   }
+.intro{
+       color: #414141;
+       font-size: 15px;
+       line-height: 28px;
+   }
+   .learn-more{
+    background-color:#5E068A ;
+    color: white;
+    text-decoration: none;
+    border-radius: 40px;
+    text-transform: uppercase;
+   font-weight: 600;
     margin-top: 21px;
-    border-radius: 50px;
-    border: 2px solid #5e068a;
-    background-color: white;
-    color: #5e068a;
+
+
+   }
+   .learn-more:hover{
+    border: 2px solid #5E068A;
+    background-color: white; 
+    color: #5E068A;
+   }
+.view-courses{
+  border: 2px solid #5E068A;
+  border-radius: 40px;
+  text-decoration: none;
+  color: #5E068A;
 }
-.part2{
-    position: relative;
-    top:43px;
-    
+.view-courses:hover{
+    background-color:#5E068A ;
+    color: white;
 }
-.part3{
-    position: relative;
-    top:80px;
+.placements{
+    background-color:#5E068A ;
+    color: white;
+    font-size: 30px;
+    font-weight: 400px;
 
 }
-.part4{
-    position: relative;
-    top:100px;
+.section-courses{
+    background-color:  #f0f2f5;
 }
-.part5{
-    position: relative;
-    top:50px;
+.section-courses .heading{
+    font-size: 32px;
+    text-transform: uppercase;
+    text-align: center;
+    color: #5E068A;
+    font-weight: 500;
 }
-.bttn2{
-    width: 160;
-    font-size: 12px;
-    position: relative;
-    left: 60px;
+.cs-item .card{
+background-color: white;
+border: 0;
+
 }
+.cs-item .card:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.cs-item h3{
+    font-size: 18px;
+    margin-top: 20px;
+    color:#5E068A; ;
+}
+.cs-item p{
+    font-size: 14px;
+    line-height: 25px;
+    margin-bottom: 15px;
+    color: #414141;
+}
+.section-courses button{
+    text-transform: uppercase;
+    color: white;
+    background-color:#5E068A; 
+    margin-bottom: 30px;
+    border: 0px;
+
+}
+.cs-ML{
+    background-color: white;
+}
+div.cs-ML:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+   
+
+}
+.cs-ML p{
+    line-height: 1.8;
+    color: #414141;
+}
+.cs-ML h3{
+    text-transform: uppercase;
+    color: #5E068A;
+    font-size: 20px;
+}
+.cs-ML img{    
+    height: 350px;   
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    
+}
+.gallery-head{
+    color:#5E068A;
+    text-align: center;
+    
+}
+.gal-content{
+    text-align: center;
+    line-height: 1.8;
+    font-size: 14px;
+    color: #414141;
+}
+.row .img-flex{
+    align-items: center;
+    display: flex;  
+    justify-content: center;
+   
+
+}
+.img-flex img{
+    height: 180px;
+    width: 220px;
+}
+.row .footer-start{
+   align-items: center;
+   display: flex;  
+   justify-content: center;
+   
+    
+}
+.footer{
+    background-color: #1D0429;
+    color: white;
+    
+}
+.footer h4{
+    text-transform: uppercase;
+}
+.footer a{
+    text-decoration: none;
+    color: white;
+}
+.footer ul{
+    list-style: none;
+    color: white;
+}
+.copyright{
+    background-color: white;
+}
+.navbar ul{
+    list-style: none;   
+    
+}
+.navbar li a {    
+    color: #252627;
+    text-transform: uppercase;
+    font-size: 14x;
+    font-weight: 500;   
+    text-decoration: none;
+    
+    }
+.navbar li a:hover{
+        color: #5E068A;
+    }
